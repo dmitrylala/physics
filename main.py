@@ -99,7 +99,7 @@ st.plotly_chart(fig2)
 
 st.markdown(r"""
 Полная ширина спектральной плотности мощности:
-$$\Delta\omega\sim\frac{2\pi}{\tau}\Rightarrow\nu_{\text{max}}\sim\frac{7}{2\pi\tau}\approx\frac{1.1}{\tau}.$$
+$$\Delta\omega\sim\frac{7}{\tau}\Rightarrow\nu_{\text{max}}\sim\frac{7}{2\pi\tau}\approx\frac{1.1}{\tau}.$$
 """)
 
 st.subheader("Дискретный спектр")
